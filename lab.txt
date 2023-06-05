@@ -20,3 +20,5 @@ Advanced Java Programming Lab Questions – BCA 6
 18.	Write a JSP Program to print “NCCS College” 10 times
 19.	Write a RMI Program to substract between two numbers
 20.	Write a program to Design an interface containing fields User ID, Password and Account type, and buttons login, cancel, edit by mixing border layout and flow layout. Add events handling to the button login and cancel such that clicking in login checks for matching user id and password in the database and opens another window if login is successful and displays appropriate message if login is not successful. Clicking in cancel terminates our program.
+
+hekki
