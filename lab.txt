@@ -1,0 +1,22 @@
+Advanced Java Programming Lab Questions – BCA 6
+
+1.	Write a program to create interface A in this interface we have two method meth1 and meth2. Implements this interface in another class named MyClass. 
+2.	Write a program for example of multiple catch statements occurring in a program. 
+3.	Write a program to create a dialogbox and menu. 
+4.	Write a program that will display check boxes and option buttons they are numbered from1 to. Use a textbox to display the number those corresponding boxes or button checked. 
+5.	Write a program using swing components to add two numbers. Use text fields for inputs and output. Your program should display the result when the user presses a button. 
+6.	Write a program to illustrate borderlayout.
+7.	Write a program to illustrate MouseEvent class and MouseListener Interface.
+8.	Write a program using jdbc to insert data to database.
+9.	Write a program using jdbc to retrieve data from database.
+10.	Write an example of preparedStatement.
+11.	Write an example of Rowset.
+12.	Write a program to illustrate Java Beans.
+13.	Write a program using Servlets to print Hello. Also write the web.xml file.
+14.	Write a program using Servlets to sum two numbers
+15.	Write a servlet program to set cookies values and get these values.
+16.	Write a JSP program to display contents of data entered from any form.
+17.	Write a JSP Program to demonstrate exception handling
+18.	Write a JSP Program to print “NCCS College” 10 times
+19.	Write a RMI Program to substract between two numbers
+20.	Write a program to Design an interface containing fields User ID, Password and Account type, and buttons login, cancel, edit by mixing border layout and flow layout. Add events handling to the button login and cancel such that clicking in login checks for matching user id and password in the database and opens another window if login is successful and displays appropriate message if login is not successful. Clicking in cancel terminates our program.
